@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/zhaoyuhang/Desktop/DOE/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/zhaoyuhang/Desktop/DOE/build/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+C:\Users\zhaoyuhang\Desktop\DOE\src\main.cpp(14): warning C4100: “newPath”: 未引用的形参
+C:\Users\zhaoyuhang\Desktop\DOE\src\main.cpp(89): warning C4100: “argc”: 未引用的形参
+  DOE_melting_detection.vcxproj -> C:\Users\zhaoyuhang\Desktop\DOE\build\RelWithDebInfo\DOE_melting_detection.exe
